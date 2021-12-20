@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StrgV
 - 👀 I’m interested in: everything
-- 🌱 I’m currently learning: everything
+- 🌱 I’m currently learning: noverything
 - 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: sure
 
