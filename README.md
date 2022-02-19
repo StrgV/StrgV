@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StrgV
-- 👀 I’m interested in: everything
-- 🌱 I’m currently learning: noverything
-- 💞️ I’m looking to collaborate on: nothing
+- 👀 I’m interested in: too many things
+- 🌱 I’m currently learning: true
+- 💞️ I’m looking to collaborate on: false
 - 📫 How to reach me: sure
 
 <!---
