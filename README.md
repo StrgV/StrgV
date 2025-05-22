@@ -4,4 +4,6 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=StrgV&theme=fuji&dithering=true">
 </picture>
 
-![Spotify last played](https://spotify-recently-played-readme.vercel.app/api?user=35x6myh203a7psu1215v6v08r&count=1)
+<div style="display: flex; flex-direction: column; justify-content: center;>
+  ![Spotify last played](https://spotify-recently-played-readme.vercel.app/api?user=35x6myh203a7psu1215v6v08r&count=1)
+</div>
